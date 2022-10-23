@@ -1,5 +1,5 @@
 # Data-Structure-Algorithm
-Learn &amp; Practice DSA
+Learn &amp; Practice DSA and get it done ✌️
 
 ## Table of Contents
 
